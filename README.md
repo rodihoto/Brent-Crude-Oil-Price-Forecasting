@@ -1,21 +1,12 @@
 # Brent Crude Oil Price Forecasting
 
-## Project Description
-This project aims to analyze and forecast Brent crude oil prices using statistical methods and ARIMA modeling.
+## Overview
+This project analyzes and forecasts Brent crude oil prices using historical data and machine learning techniques, focusing on the ARIMA model for time series forecasting. The analysis spans from 2010 to 2020 and provides insights into historical trends, volatility, and seasonality in oil prices.
 
-## Installation
-Instructions on installing necessary Python libraries and running the project.
+## Project Objectives
+- **Understand Historical Trends**: Analyze historical Brent crude oil prices to identify patterns and anomalies.
+- **Volatility Analysis**: Assess the volatility of oil prices over the last decade.
+- **Forecast Future Prices**: Predict future prices using the ARIMA model and evaluate its performance.
 
-## Usage
-How to run the scripts and analyze the output.
-
-## Folder Structure
-- `data/`: Contains all the datasets used in this project.
-- `src/`: Contains Python scripts for analysis and modeling.
-- `docs/`: Project reports and additional documentation.
-
-## Contributing
-Guidelines on how to contribute to this project.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## Project Structure
+The repository is organized as follows:
