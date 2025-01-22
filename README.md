@@ -8,5 +8,4 @@ This project analyzes and forecasts Brent crude oil prices using historical data
 - **Volatility Analysis**: Assess the volatility of oil prices over the last decade.
 - **Forecast Future Prices**: Predict future prices using the ARIMA model and evaluate its performance.
 
-## Project Structure
-The repository is organized as follows:
+
